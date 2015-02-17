@@ -1,6 +1,8 @@
 # veriyapilari
-#include<stdio.h>
-#include<conio.h>
+
+
+include<stdio.h>
+include<conio.h>
 		int toplama(){
 			int a=10, b=15;
 	printf("islem turunu giriniz // + , - , * , / ");
