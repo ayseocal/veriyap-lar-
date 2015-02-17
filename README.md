@@ -1,4 +1,4 @@
-# veriyapilari
+			# veriyapilari
 #include<stdio.h>
 #include<conio.h>
 		int toplama(){
